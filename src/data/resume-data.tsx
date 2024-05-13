@@ -49,12 +49,7 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "www.linkedin.com/in/lukeleach",
         icon: LinkedInIcon,
-      },
-      // {
-      //   name: "X",
-      //   url: "https://x.com/BartoszJarocki",
-      //   icon: XIcon,
-      // },
+      }
     ],
   },
   education: [
