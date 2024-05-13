@@ -16,7 +16,7 @@ export const RESUME_DATA = {
     I have swiftly transitioned into the industry and have promptly become an asset to the team I work with.
     I am confident in my ability to learn new technologies and adapt to new environments, and I enjoy what I do.`,
   avatarUrl: "/Profile_No_BG.png",
-  // personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://lukeleach.com",
   contact: {
     email: "lukedleach@gmail.com",
     tel: "+6147150248",
@@ -28,7 +28,7 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "www.linkedin.com/in/lukeleach",
+        url: "https://linkedin.com/in/lukeleach",
         icon: LinkedInIcon,
       }
     ],
