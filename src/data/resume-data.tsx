@@ -44,7 +44,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Zebra Labs LTD",
-      link: "https://zebralabs.io",
+      // link: "https://zebralabs.io",
       badges: ["Remote"],
       title: "Director",
       start: "Nov 2022",
