@@ -16,7 +16,7 @@ export const RESUME_DATA = {
     I have swiftly transitioned into the industry and have promptly become an asset to the team I work with.
     I am confident in my ability to learn new technologies and adapt to new environments, and I enjoy what I do.`,
   avatarUrl: "/Profile_No_BG.png",
-  personalWebsiteUrl: "https://lukeleach.com",
+  personalWebsiteUrl: null,
   contact: {
     email: "lukedleach@gmail.com",
     tel: "+6147150248",
@@ -44,7 +44,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Zebra Labs LTD",
-      link: null,
+      link: "https://zebralabs.io",
       badges: ["Remote"],
       title: "Director",
       start: "Nov 2022",
