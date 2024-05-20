@@ -52,6 +52,17 @@ export const RESUME_DATA = {
       description:
         `Lead developer of our primary internal product, OneSea, and senior developer on "Program Finder" - a product for our client, Erickson Coaching International.`,
     },
+    {
+      company: "Yachting Industry",
+      link: null,
+      badges: [],
+      title: "Deckhand",
+      start: "Jun 2019",
+      end: "Nov 2022",
+      description:
+        `Senior deckhand on a 135m private motor-yacht based in the Mediterranean. Worked long hours with a large crew. 
+        Responsible for designing and 3D printing custom parts for vessel maintenance.`
+    }
   ],
   skills: [
     "JavaScript",
