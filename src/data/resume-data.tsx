@@ -8,13 +8,10 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer focused on building advanced, scalable web-apps",
   summary:
-    // `As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. 
-    // I lead teams effectively, ensuring an environment where people can do their best work. 
-    // Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. 
-    // I have over 8 years of experience in working remotely with companies all around the world.`,
-    `My engineering background has given me a strong foundation in problem solving and critical thinking, which has proven to be invaluable in my career as a developer.
-    I have swiftly transitioned into the industry and have promptly become an asset to the team I work with.
-    I am confident in my ability to learn new technologies and adapt to new environments, and I enjoy what I do.`,
+    `My engineering background has given me a strong foundation in problem solving and critical thinking, 
+    which has proven to be invaluable in my career as a developer. 
+    I have consistently proven to be a valuable asset to my team, confidently learning new technologies and adapting to new environments. 
+    I am passionate about what I do and continually strive to deliver high-quality solutions.`,
   avatarUrl: "/Profile_No_BG.png",
   personalWebsiteUrl: null,
   contact: {
