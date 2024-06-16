@@ -41,7 +41,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Zebra Labs LTD",
-      link: "https://zebralabs.io",
+      link: "https://www.zebralabs.io",
       badges: ["Remote"],
       title: "Director",
       start: "Nov 2022",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
       description: "A SaaS platform providing the maritime industry with a set of tools to manage their vessels and crew.",
       link: {
         label: "onesea.io",
-        href: "https://onesea.io/",
+        href: "https://www.onesea.io/",
       }
     },
     {
@@ -93,4 +93,16 @@ export const RESUME_DATA = {
       }
     }
   ],
+  hobbyProjects: [
+    {
+      title: "findmyregion.com",
+      techStack: ["Typescript", "React", "Next.js", "Vercel", "Google Geocoding API"],
+      description: "A simple app to determine the best server region for your next deployment based on the locations of clients.",
+      link: {
+        label: "findmyregion.com",
+        href: "https://www.findmyregion.com/",
+      }
+    },
+  ],
 } as const;
+
